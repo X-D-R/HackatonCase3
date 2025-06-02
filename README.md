@@ -7,3 +7,8 @@
 
 ## Android
 
+https://drive.google.com/file/d/1X7GSf9d1DZjJi8Ye6x9JZOM-jVW2o-Li/view?usp=sharing
+
+## IOS
+
+https://github.com/londxz/HackatonYandex
